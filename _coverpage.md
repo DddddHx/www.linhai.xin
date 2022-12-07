@@ -1,3 +1,3 @@
 # Hello LinHaixin
 
-[桂ICP备2021006105号](/)
+[**ENTRY**](/docs/index.md)
