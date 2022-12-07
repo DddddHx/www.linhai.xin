@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/#)
-* [Logs](/docs/logs.md)
+* [**Home**](/#)
+* [**Updata Logs**](/docs/updatalogs.md)
